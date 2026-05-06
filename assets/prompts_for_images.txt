@@ -1,0 +1,48 @@
+# Image Generation Prompts for "Renewable Energy and the Physics Behind It"
+
+Use these prompts in AI image generators (like DALL-E 3, Midjourney v6, or Adobe Firefly) to create the visual assets needed for your academic paper and PowerPoint presentation.
+
+---
+
+### Image 1: The Solar Spectrum & Blackbody Curve
+**Location:** Section 3 (The Nature of Solar Radiation) / Slide 1
+**Purpose:** To show the difference between theoretical physics (Planck's Law) and reality on Earth.
+
+**Prompt for AI Generator:**
+> "A clean, modern, academic data visualization showing a line graph. The x-axis represents 'Wavelength (nm)' and the y-axis represents 'Spectral Irradiance (W/m²/nm)'. The graph features three distinct curves: one smooth theoretical 'Blackbody Radiation Curve at 5800K', a second jagged curve representing 'Extraterrestrial Solar Radiation (AM0)', and a third lower curve representing 'Global Solar Radiation at Sea Level (AM1.5G)'. The area under the AM1.5G curve is filled with a soft yellow-to-red gradient indicating visible light. The style should be minimalist, suitable for a physics textbook, with clean sans-serif typography, white background, no clutter, highly accurate scientific aesthetic."
+
+---
+
+### Image 2: The P-N Junction & Depletion Region
+**Location:** Section 5 (The Photovoltaic Effect) / Slide 2
+**Purpose:** To explain the "built-in electric field" that separates charge carriers.
+
+**Prompt for AI Generator:**
+> "A clear, 3D educational diagram illustrating a semiconductor P-N junction. On the left, a block labeled 'p-type' colored in light blue with small circle cutouts representing 'holes'. On the right, a block labeled 'n-type' colored in light red with small spheres representing 'electrons'. In the center where they meet, a distinct boundary layer labeled 'Depletion Region' showing an electric field vector arrow pointing from the n-side to the p-side. A glowing yellow photon is striking the depletion region, causing an electron to move right and a hole to move left. Minimalist scientific illustration style, isometric angle, white background, textbook quality."
+
+---
+
+### Image 3: Cross-Section of a Silicon Solar Cell
+**Location:** Section 6 (Structure of a Solar Cell)
+**Purpose:** To show the engineered layers that make up a commercial solar panel.
+
+**Prompt for AI Generator:**
+> "A detailed, exploded 3D isometric view of a standard crystalline silicon solar cell. The layers are peeled back slightly to reveal the internal structure. From top to bottom: 1. A grid of thin silver metal contact fingers. 2. A textured, dark blue Anti-Reflective Coating (ARC). 3. A thin n-type silicon emitter layer. 4. A thick p-type silicon base layer. 5. A solid aluminum rear contact. An arrow depicting sunlight is hitting the top surface. Clean, modern, technical engineering vector-style graphic, white background, highly legible."
+
+---
+
+### Image 4: The Shockley-Queisser Limit (Thermalization vs. Transparency)
+**Location:** Section 7 (Efficiency Losses) / Slide 3
+**Purpose:** To visually explain why a solar cell can only hit ~33% efficiency.
+
+**Prompt for AI Generator:**
+> "An educational infographic explaining solar cell efficiency losses. The visual features a large incoming yellow light beam (representing 100% solar energy) hitting a stylized silicon crystal. The beam splits into three distinct paths: One path labeled 'Transparency Loss' (red arrow passing straight through), one path labeled 'Thermalization Loss' (orange wavy arrows radiating outward as heat), and the central remaining beam labeled 'Usable Electrical Energy' (blue lightning bolt, representing ~33%). Clean, modern infographic style, high contrast, scientific layout, white background."
+
+---
+
+### Image 5: The "Layer Cake" of a Tandem Solar Cell
+**Location:** Section 8 (Advanced Technologies) / Slide 4
+**Purpose:** To show how Perovskite on top of Silicon catches the whole spectrum.
+
+**Prompt for AI Generator:**
+> "A 3D scientific diagram of a Tandem Solar Cell. The structure looks like a transparent layer cake. The top layer is labeled 'Perovskite (High Bandgap)' and is depicted absorbing blue and green light rays. The bottom layer is labeled 'Silicon (Low Bandgap)' and is shown absorbing red and infrared light rays that have passed through the top layer. The aesthetic should be futuristic but clean and academic, using semi-transparent materials to show the light passing through. White background, high-resolution textbook quality."
