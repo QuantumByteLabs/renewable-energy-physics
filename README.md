@@ -1,5 +1,7 @@
 # Renewable Energy and the Physics Behind It
 
+**Author:** Ahmed Dzemic, student of school GSSST Sarajevo, Bosnia.
+
 This project is set up to generate a 12-page academic paper on the physics of renewable energy, specifically focusing on photovoltaics.
 
 ## Project Structure

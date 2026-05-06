@@ -1,18 +1,26 @@
-# Project: Renewable Energy Physics Paper
+# Project: Renewable Energy Physics Paper & Media
 # Requires: pandoc (and xelatex for PDF)
 
-SECTIONS := $(sort $(wildcard sections/*.md))
-OUTPUT_NAME := Renewable_Energy_Physics_Paper
+PAPER_SECTIONS := $(sort $(wildcard sections/*.md))
+OUTPUT_NAME := Renewable_Energy_Physics
+BUILD_DIR := build
 
-all: pdf docx
+all: paper-pdf paper-docx presentation
 
-pdf:
-	pandoc metadata.yaml $(SECTIONS) -o $(OUTPUT_NAME).pdf --pdf-engine=xelatex
+# Generate the Academic Paper (PDF)
+paper-pdf:
+	pandoc metadata.yaml $(PAPER_SECTIONS) -o $(BUILD_DIR)/$(OUTPUT_NAME)_Paper.pdf --pdf-engine=xelatex
 
-docx:
-	pandoc metadata.yaml $(SECTIONS) -o $(OUTPUT_NAME).docx
+# Generate the Academic Paper (MS Word)
+paper-docx:
+	pandoc metadata.yaml $(PAPER_SECTIONS) -o $(BUILD_DIR)/$(OUTPUT_NAME)_Paper.docx
+
+# Generate the PowerPoint Presentation
+presentation:
+	pandoc presentation/slides.md -o $(BUILD_DIR)/$(OUTPUT_NAME)_Slides.pptx
 
 clean:
-	rm -f $(OUTPUT_NAME).pdf $(OUTPUT_NAME).docx
+	rm -f $(BUILD_DIR)/*
 
-.PHONY: all pdf docx clean
+.PHONY: all paper-pdf paper-docx presentation clean
+
