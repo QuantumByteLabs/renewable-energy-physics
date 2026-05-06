@@ -2,6 +2,8 @@
 
 **Author:** 👨‍🎓 Ahmed Dzemic, student of **GSSST Sarajevo**, Bosnia 🇧🇦
 
+![Renewable Energy & Physics – Hero Banner](assets/images/main.png)
+
 This project is a comprehensive multi-format academic and media package exploring the physical principles governing renewable energy, with a primary focus on photovoltaic systems. 💡
 
 ---
