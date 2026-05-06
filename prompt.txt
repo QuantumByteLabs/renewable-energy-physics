@@ -1,0 +1,166 @@
+Here is a **high-quality, ready-to-use prompt** you can paste into ChatGPT or another LLM to generate exactly what you need:
+
+---
+
+**PROMPT:**
+
+Write a comprehensive academic-style paper titled:
+
+**"Renewable Energy and the Physics Behind It"**
+
+The paper must meet the following strict requirements:
+
+### General Requirements
+
+* Length: approximately **12 DIN A4 pages**
+* Font: **Times New Roman, 12 pt**
+* Style: **formal academic writing**
+* Language: **English**
+* Include **figures, graphs, and diagrams where appropriate** (describe them and include source links)
+* Use **clear section headings and subheadings**
+* Include **in-text explanations of formulas**
+* Provide **credible references with full URLs (no shortened links)**
+
+---
+
+### Structure
+
+#### 1. Table of Contents
+
+---
+
+#### 2. Introduction
+
+* Importance of renewable energy in modern society
+* Role of physics in understanding energy systems
+* Scope and objectives of the paper
+
+---
+
+#### 3. Main Body
+
+##### 3.1 Overview of Renewable Energy Sources
+
+* Solar, wind, hydro, geothermal, biomass
+* Basic working principles
+* Comparison (efficiency, scalability, limitations)
+
+---
+
+##### 3.2 The Nature of Solar Radiation (with formulas)
+
+* Solar spectrum
+* Blackbody radiation
+* Planck’s law (include formula and explanation)
+* Stefan–Boltzmann law
+* Solar constant
+
+---
+
+##### 3.3 Fundamentals of Semiconductors
+
+* Band theory (valence/conduction bands)
+* Intrinsic vs extrinsic semiconductors
+* Doping (p-type, n-type)
+* Charge carriers and mobility
+
+---
+
+##### 3.4 The Photovoltaic Effect
+
+* Physical mechanism
+* Einstein’s photoelectric equation (include formula)
+* Electron-hole pair generation
+* Role of p–n junction
+
+---
+
+##### 3.5 Structure of a Solar Cell
+
+* Layers (anti-reflective coating, emitter, base, contacts)
+* Materials (silicon, thin-film, etc.)
+* Working principle with diagram description
+
+---
+
+##### 3.6 Efficiency of Solar Cells and Loss Mechanisms
+
+* Definition of efficiency (include formula)
+* Shockley–Queisser limit
+* Losses:
+
+  * Thermalization
+  * Recombination
+  * Reflection
+  * Resistive losses
+
+---
+
+##### 3.7 Advanced Solar Technologies
+
+* Perovskite solar cells
+* Multi-junction cells
+* Organic photovoltaics
+* Bifacial panels
+
+---
+
+##### 3.8 Energy Storage and Grid Integration
+
+* Batteries (Li-ion, solid-state)
+* Hydrogen storage
+* Smart grids
+* Intermittency challenges
+
+---
+
+##### 3.9 Environmental and Economic Impact
+
+* CO₂ reduction
+* Lifecycle analysis
+* Cost trends (LCOE)
+* Land use and ecological considerations
+
+---
+
+##### 3.10 Future Perspectives
+
+* Emerging technologies
+* Policy and innovation trends
+* Global energy transition outlook
+
+---
+
+#### 4. Conclusion
+
+* Summary of key findings
+* Importance of physics in renewable energy development
+* Final outlook
+
+---
+
+#### 5. References
+
+* Use **reliable academic and institutional sources**
+* Include **full direct URLs for every reference**
+* Prefer sources such as:
+
+  * Scientific journals
+  * University materials
+  * International Energy Agency
+  * National Renewable Energy Laboratory
+  * IPCC
+* Format in a consistent citation style (APA or IEEE)
+
+---
+
+### Additional Instructions
+
+* Include **at least 3–5 formulas with explanations**
+* Include **at least 3 described figures/graphs with sources**
+* Maintain **logical flow and strong technical accuracy**
+* Avoid superficial explanations—aim for **engineering/physics depth**
+
+---
+
+If you want, I can **generate the full 12-page paper for you** or break it into sections so you can review/edit step-by-step.

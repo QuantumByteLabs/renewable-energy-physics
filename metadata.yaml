@@ -1,0 +1,14 @@
+---
+title: "Renewable Energy and the Physics Behind It"
+author: "Academic Paper"
+date: "May 6, 2026"
+geometry: margin=2.5cm
+fontsize: 12pt
+mainfont: "Times New Roman"
+header-includes:
+  - \usepackage{setspace}
+  - \onehalfspacing
+  - \usepackage{fontspec}
+abstract: |
+  This paper explores the fundamental physics underlying renewable energy systems, with a particular focus on solar photovoltaics. It covers the nature of solar radiation, semiconductor physics, and the efficiency limits of current technologies.
+---
